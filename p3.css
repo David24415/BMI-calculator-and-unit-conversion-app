@@ -30,6 +30,12 @@
   border: 1px solid orange;
   border-radius: 10px;
 }
+.nexTo{
+    display: inline-block;
+}
+div label {
+    display: block;
+}
 .carousel-indicators .active {
   width: 12px;
   height: 12px;
